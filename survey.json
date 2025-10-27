@@ -1,0 +1,14 @@
+{
+  "items": [
+    {"id": "q1", "label": "İsmi söylendiğinde genelde bakar mı?", "options": ["Evet", "Bazen", "Hayır"]},
+    {"id": "q2", "label": "İstediği şeyi parmağıyla işaret eder mi?", "options": ["Evet", "Bazen", "Hayır"]},
+    {"id": "q3", "label": "Basit taklitleri yapar mı (el sallama vb.)?", "options": ["Evet", "Bazen", "Hayır"]},
+    {"id": "q4", "label": "Sosyal gülümseme/göz teması var mı?", "options": ["Evet", "Bazen", "Hayır"]},
+    {"id": "q5", "label": "Adıyla çağrıldığında ses çıkarır/cevap verir mi?", "options": ["Evet", "Bazen", "Hayır"]},
+    {"id": "q6", "label": "Bir nesneyi birlikte paylaşmayı dener mi?", "options": ["Evet", "Bazen", "Hayır"]},
+    {"id": "q7", "label": "Adım adım yönergeyi takip eder mi?", "options": ["Evet", "Bazen", "Hayır"]},
+    {"id": "q8", "label": "İlgi alanları aşırı sınırlı/tekrarlayıcı mı?", "options": ["Hayır", "Bazen", "Evet"]},
+    {"id": "q9", "label": "Beklenmedik değişikliklere tepkisi aşırı mı?", "options": ["Hayır", "Bazen", "Evet"]},
+    {"id": "q10", "label": "Konuşma/kelime kullanımı yaşıtlarına yakın mı?", "options": ["Evet", "Bazen", "Hayır"]}
+  ]
+}
